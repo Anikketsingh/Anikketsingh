@@ -74,7 +74,7 @@ I'm pursuing my B.Tech in Computer Science at Delhi Technological University (DT
 
 ## 🌟 Featured Projects
 
-- <b><a href="www.docment.ai">docment.ai</a></b> — P2P Legaltech Platform (React Native, Node.js, MongoDB)
+- <b>[Docment.ai](https://www.docment.ai)**</b> — P2P Legaltech Platform (React Native, Node.js, MongoDB)
 - <b>AAA EdTech Platform</b> — Personalized EdTech with Firebase Auth, instructor dashboards
 - <b>Nagrik Aur Samvidhan</b> — Gamified civic education platform (React, Python)
 - <b>Syndicate</b> — Asset tokenization on blockchain (Hackathon Winner)
