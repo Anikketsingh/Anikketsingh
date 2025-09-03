@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I'm Aniket (he/him), currently **Co-Founder & Lead Developer at [Docment.ai](www.docment.ai)**, passionate about building innovative products and leading teams to success.  
+I'm Aniket (he/him), currently **Co-Founder & Lead Developer at [Docment.ai]("www.docment.ai")**, passionate about building innovative products and leading teams to success.  
 I'm pursuing my B.Tech in Computer Science at Delhi Technological University (DTU), where I enjoy diving deep into technology, algorithms, and leadership.
 
 ---
