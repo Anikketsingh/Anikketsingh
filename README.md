@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I'm Aniket (he/him), currently **Co-Founder & Lead Developer at [Docment.ai](https://github.com/Anikketsingh/docment-main)**, passionate about building innovative products and leading teams to success.  
+I'm Aniket (he/him), currently **Co-Founder & Lead Developer at [Docment.ai](www.docment.ai)**, passionate about building innovative products and leading teams to success.  
 I'm pursuing my B.Tech in Computer Science at Delhi Technological University (DTU), where I enjoy diving deep into technology, algorithms, and leadership.
 
 ---
@@ -74,7 +74,7 @@ I'm pursuing my B.Tech in Computer Science at Delhi Technological University (DT
 
 ## 🌟 Featured Projects
 
-- <b><a href="https://github.com/Anikketsingh/docment-main">docment-main</a></b> — P2P Legaltech Platform (React Native, Node.js, MongoDB)
+- <b><a href="www.docment.ai">docment.ai</a></b> — P2P Legaltech Platform (React Native, Node.js, MongoDB)
 - <b>AAA EdTech Platform</b> — Personalized EdTech with Firebase Auth, instructor dashboards
 - <b>Nagrik Aur Samvidhan</b> — Gamified civic education platform (React, Python)
 - <b>Syndicate</b> — Asset tokenization on blockchain (Hackathon Winner)
